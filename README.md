@@ -1,23 +1,22 @@
-### Hello
+# Hello, I'm Naufal. 
 
-My name is Naufal, I'm based in Melbourne, Victoria, Australia. Most of the projects you see here will either work in progress... I mean as long as writing them is still fun.
+I am a software engineer based in Melbourne, Australia. I came from Indonesia.
+
+Most of the repositories are work-in-progress or straight up 'temporarily abandoned' (i.e. awaiting motivation or just time to continue). My life is currently focused on work, migrating, and creating a supportive environment for my loved ones in these trying times. Feel absolutely free to ask questions about any of my projects, but I can't promise to be committed to any projects. 
+
 
 **Technical Interests**:
 
-I am currently in the process of pulling my life together, so I'm not comitting to writing anything that's too serious. Right now the code I _do_ write revolves around:
+I don't write side projects as often now due to life commitments. However, the side projects I do write usually revolves around: 
 
-- Work (duh)
-- Learning Rust.
-- Using Haskell to write things that take 70% faster in Javascript.
-- Avoiding type-unsafe languages.
-- IoT, home automation, and other kinds of automations.
-- DevOpsy stuff - and keeping my Minecraft server alive.
-- Reading through 'Modern Operating Systems' by Herbert Bos.
+- Learning Rust, the language. 
+- Writing projects in Haskell to understand functional programing concepts. 
+- Small home automation projects. 
+- DevOps related stuff - such as keeping my Minecraft server alive.
+- Learning linux internals, including the classic [ricing my window manager](https://github.com/naufik/.awesome), contributing to random GitHub repos and reading through 'Modern Operating Systems' by Herbert Bos.
 
 **Affiliations**:
 
 - [InGenious AI, Pty. Ltd.](https://ingenious.ai). Full Stack Engineer. Current.
 - [University of Melbourne](https://unimelb.edu.au). Tutor and Demonstrator (2018 - 2020). Research Assistant (Jul - Dec 2019)
 - [Nodeflux](https://nodeflux.io). Software Engineer Intern (2018).
-
-_Disclaimer: this page is also, work in progress._
