@@ -11,6 +11,6 @@ I don't write side projects as often now due to life commitments (work and migra
 
 **Affiliations & Experiences**:
 
-- [InGenious AI, Pty. Ltd.](https://ingenious.ai). Senior Full Stack Engineer (Mar 2023 - Current). Full Stack Software Engineer (Feb 2020 - Mar 2023).
+- [InGenious AI, Pty. Ltd.](https://ingenious.ai). Senior Full Stack Engineer (Mar 2023 - Current). Full Stack Software Engineer (2020 - 2023).
 - [University of Melbourne](https://unimelb.edu.au). Tutor and Demonstrator (2018 - 2020). Research Assistant (Jul - Dec 2019).
 - [Nodeflux](https://nodeflux.io). Software Engineer Intern (2018).
