@@ -2,7 +2,7 @@
 
 **Technical Interests**:
 
-I don't write side projects as often now due to life commitments (work and migration). However, the side projects I do write usually revolves around: 
+I don't write side projects as often now. However, the side projects I do write usually revolves around: 
 
 - Learning Rust.
 - Small home automation projects.
